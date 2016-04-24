@@ -10,7 +10,7 @@ A collection of common Angular 2 snippets for Dart and Typescript
 
 ### Components
 
-* n2c -> Creates an Angular 2 component class
+* ng2c -> Creates an Angular 2 component class
 
 ### Directive
 
